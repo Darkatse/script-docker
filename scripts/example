@@ -1,0 +1,6 @@
+#!/bin/bash
+script_repo_url="https://github.com/xxx/XXXX"
+script_type="node"
+
+#下面填入脚本所需要的环境变量（如果有的话）
+some_env=""

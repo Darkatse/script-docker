@@ -1,0 +1,9 @@
+#!/bin/bash
+# 可填入推送等secret，对所有docker生效
+PUSH_KEY=""
+BARK_PUSH=""
+BARK_SOUND=""
+TG_BOT_TOKEN=""
+TG_USER_ID=""
+DD_BOT_TOKEN=""
+DD_BOT_SECRET=""

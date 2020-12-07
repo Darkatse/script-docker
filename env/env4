@@ -1,0 +1,9 @@
+#!/bin/bash
+#把想要执行的脚本仓库名称写在下方，形如("sript1" "script2")
+script_repo_select=("example")
+script_on=("")
+
+#下面填写诸如cookies等参数，形式与脚本要求仓库的保持一致，名称可在GitHub action配置文件中找到
+XXX_HEADER=""
+XXX_TIMEURL=""
+XXX_COOKIES=""
